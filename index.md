@@ -243,7 +243,7 @@ o. When, later on in the KIT MANUAL, you are asked to cut holes into the facepla
 p. VERY IMPORTANT!!!! Holes in the mylar should be cut large and neatly enough so that the jacks & other components be able to be inserted without feeling any drag from excess mylar. If this is not done, installing the jacks & components will produce a very unsightly swelling up of the mylar... A good technique to use to ensure open holes is to go over a cut hole with the exacto knife at an angle to give a slight taper to the edge of a hole.
 
 # tips
-- avoid output to putput connections!
+- avoid output to output connections!
 - *The wires going from the panel to the PC boards should not be bundled or tied together. They should lay neatly between the rows of components and be kept separate for each module.*
 - STEP 14 - INSTALLATION OF GROUNDING-WIRE AND LUG
 Install a Black power supply cable between and any pad W that has been left unused to the grounding lug should be installed at the lower left standoff. This step grounds the Panel to the Rack.
@@ -267,34 +267,6 @@ Install a Black power supply cable between and any pad W that has been left unus
 	- A: when using stackable cables, you may have many cables coming from one output. If you need to remove one of those cables from lower on the stack, you would lose all of your connections above that point while you reroute. Double outputs can decrease the chance of this happening. See also #multiples 
 
 ---
-
-
-# accounting
-- [[2020-09-07]] synthcube $76.19 (noise, tws, dusg)
-- [[2020-09-08]] elby $197.56 (negslew, ssg, vcf, lpg, asr, vco, dvp, matrix)
-- [[2020-09-10]] mouser $66.87 (boat, panel, pwr inlet/fuseholder)
-- [[2020-09-10]] tayda $79.19 (most parts)
- - [[2020-09-10]] ebay $22.93 (condor HAA15 0.8-A+)
-- [[2020-09-16]] synthcube $32.19 (motm power distro)
-- [[2020-09-17]] synthrotek $8.25 (tempco)
-- [[2020-09-18]] tayda $55.57
-- [[2020-09-18]] mouser $57.37
-- [[2021-07-29]] tayda $28.60 (resistors, heatsink grease, header materials, #16n slider caps)
-- [[2021-07-29]] Amazon $40.40 (power harness wire and resistors)
-- [[2021-07-30]] Ebay $16.03 (polyester box caps)
-- [[2021-07-30]] Synthcube $43.87 (polystyrene caps, motm dist board, 3080)
-- [[2021-08-01]] Synthcube $46.20 (vactrols, as394, that340)
-- [[2021-08-04]] Mouser $203.71 (banana jacks, lm741, 2n4403, hammond box and panel, smd j201)
-- [[2021-08-04]] Tayda $52.10 (jumper, speakon, lm13700, lm3900, trim pots, .1uf caps, bc547, bc557, led shades)
-- [[2021-08-04]] Amazon $12.16 (clear adhesive labels)
----below here is not in total yet---
-- [[2021-08-17]] tractor supply aluminium $????
-- [[2021-08-18]] PedalPcb $19.15 smd to thru hole adapters
-- [[2021-09-01]] Tayda $49.45 (good ic sockets, more alligator clips, knobs, and #rpi power supplies)
-
--  running total: $1029.19
-
-
 # helpful pictures
 ![[Untitled.png]]
 ![](https://www.serge.synth.net/documents/kit/kcm10.gif)
