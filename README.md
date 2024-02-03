@@ -1,6 +1,4 @@
 
-tags: #serge #sdiy #modular #diy
-created: [[2021-05-20]] at 10:12
 # [[serge]]
 ![Serge Modular|600](https://www.serge.synth.net/pic/serge_modular_title.gif)
 ![|600](https://imgr.search.brave.com/_oFECB9YH-72AWrkcRzUOCpdN0IRrKFFW-VQrzsZ3IA/fit/785/225/no/1/aHR0cHM6Ly90c2Uz/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5Z/QTVsWktXSWZoakV3/MW11ZENoWVNRSGFF/ZSZwaWQ9QXBp)
@@ -25,8 +23,6 @@ created: [[2021-05-20]] at 10:12
 - [cybernetics with synthesizers](https://www.youtube.com/watch?v=MnYkqlSIr_I&t=15s)
 
 ---
-
-
 
 # modules: 
 ## boat1 (voice 1)
