@@ -1,4 +1,6 @@
 # [[serge]]
+![](srgh.JPG)
+- see boat 1 in action [here](https://youtu.be/GMgH82zM7n4)
 > my serge inspired modular synthesizer build 2021 - ????
 
 # inspiration 
