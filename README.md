@@ -118,6 +118,17 @@ https://sdiy.info/wiki/Banana_jack_colour_schemes
 - [[2021-08-20]] 3080 ics shipped out. put 100k trim pots in [[CGS514 DUSG]] Made a more flexible boat power cable
 - [[2021-08-26]] drilled pilot holes in panel 1
 - [[2021-08-27]] got panel 1 all drilled (accidentally made switch holes on [[CGS LPG]] too big, but a washer will fix it.)
+- (long hiatus)
+- [[2023-11-05]] graphics be damned, I put all the jacks in my panel and connected my first module (vco) to it. Took a while to get it working right (I had a tl072 where the matched transistor was supposed to go lol, been away too long.) but I finally got there. Pitch and fine controls need to be reversed and my vcf jack is wired to the wrong point as well as my pulse jack, but that’s all minor. Fix that then calibrate it, then tidy the wires if ya can, then on to the next one!
+- [[2023-11-06]] vco tweaks, ssg wiring, made patch cables
+- [[2023-11-07]] ssg install, noise/snh install
+- [[2023-11-08]] made power cables, tws install, added indicater light to power supply, drilled panel for tws switches, long test jam
+- [[2023-11-09]] dvp install, lpg vactrol install, lpg install, starting to feel like a real synth now!
+- [[2023-11-10]] made last 3 power cables, made more patch cables, lpg tweaks, installed vcf
+- [[2023-11-12]] studied LW DUSG wiring, and got lower section wired, installed, and tested
+- [[2023-11-15]] boat one is wrapped! explore and learn, plan boat 2
+- [[2023-12-19]] resistors, trim pots, transistors, diodes installed in vca, wave mult, resEQ, and DTG
+- (build hiatus #2, but still playing boat1)
 
 # panels
 https://www.serge.synth.net/modules/index.html
